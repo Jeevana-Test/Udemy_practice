@@ -8,3 +8,4 @@ def is_odd(num):
         return None
 
 print(is_odd(5)) #Output: True
+print(is_odd(0)) #Output: False
